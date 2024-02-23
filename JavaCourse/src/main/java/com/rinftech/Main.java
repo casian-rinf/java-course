@@ -20,6 +20,7 @@ public class Main {
         } else {
             System.out.println("different goldens");
         }
+        System.out.println("new message");
 
 //        secondGolden.petDog();
 //        secondGolden.petDog(2);
