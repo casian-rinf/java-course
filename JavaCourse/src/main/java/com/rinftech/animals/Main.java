@@ -1,4 +1,4 @@
-package com.rinftech;
+package com.rinftech.animals;
 
 
 import com.rinftech.animals.DomesticAnimal;
