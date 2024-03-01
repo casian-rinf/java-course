@@ -1,6 +1,5 @@
 package com.rinftech.animals;
 
-import jdk.nashorn.internal.codegen.CompilerConstants;
 
 import java.util.Objects;
 
